@@ -1,0 +1,9 @@
+#if EXTRA_CHARACTERS_ACTIVE
+
+#if EXTRA_CHARACTERS_UNLIMITED
+
+include andrewScripts/?
+
+#endif
+
+#endif
