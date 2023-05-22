@@ -13,8 +13,8 @@ Andrew, one of the famous Sonic recolors, gets coded with a new moveset into Son
 _____
 Andrew's Moveset:
 
-- Andrew has the special move of stomping. There's no real practical use, it's just for the funny.
-- He can also break Knuckles walls, because yes.
+- Andrew can dash forward!
+- He can break Knuckles walls.
 - Andrew will peelout by default.
 - Andrew *cannot* use the Insta-Shield or the Dropdash.
 
