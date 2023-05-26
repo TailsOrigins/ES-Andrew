@@ -1,8 +1,11 @@
 # Extra Slot Andrew
 Andrew, one of the famous Sonic recolors, gets coded with a new moveset into Sonic 3 A.I.R.
 
-## THIS PROJECT IS DISCONTINUED. I am in need for more time for me, my friends, and family so I am passing the project over to [Aedchronium](https://github.com/Aedchronium).
 **PLEASE READ: Extra Slot Andrew is tested for the latest stable release of Sonic 3 A.I.R (v22.09.10.0) and might not work properly on the preview/test version(s)!**
+
+**AND NOTE THIS IS A PASSION PROJECT. THIS PROJECT'S PROGRESS MAY BE HALTED AT ANY POSSIBLE TIME. BUT, I WILL TRY MY BEST TO KEEP THIS UPDATED.
+FOR BIG UPDATES CHECK OUT [Aedchronium](https://twitter.com/Aedchronium)'S TWEETS.**
+
 
 **This mod is in BETA, there might be bugs, and the following features have yet to be added.**
 
